@@ -1,0 +1,3 @@
+number = ARGV
+
+puts number
